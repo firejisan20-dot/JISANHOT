@@ -19,3 +19,4 @@ cfonts
 Flask-SocketIO
 eventlet
 dotenv
+google-play-scraper
